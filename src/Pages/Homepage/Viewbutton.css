@@ -1,0 +1,16 @@
+.but1{
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+    width: 200px;
+    height:40px;
+    border-radius: 20px;
+    border-color: #701C1C;
+    background-color: white;
+    color: #701C1C ;
+    font-family: Pristina;
+    font-size: 36px;
+    line-height: 40px;
+    padding-top: 5px;
+    
+}

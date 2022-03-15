@@ -1,0 +1,275 @@
+.mapp{
+    width:1130px;
+}
+
+.conn2{
+    background-color:whitesmoke;
+    border-style: solid;
+    height: 504px;
+    width: 600px;
+   /*  display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-left: 250px;
+    margin-top: -20px;
+     position:relative; 
+    
+    border-radius: 25px 0px;
+    border-color: #ffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25px);
+    
+   
+}
+
+.head1{
+    font-size: 16px;
+    font-family: KD2;
+    font-weight: bold;
+    color: #D0770C;
+    padding-bottom:-223px ;
+}
+.mappp{
+    width: 300px;
+    height: 300px;
+    
+
+}
+
+.para{
+width: 271px;
+height: 92px;
+left: 284px;
+top: 1195px;
+font-family : kd 2px;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+color: #646464;
+}
+
+.pic1{
+    margin-bottom: -159px;
+    margin-left: -170px;
+
+}
+.pic2{
+    margin-bottom: -59px;
+    margin-left: -170px;
+
+}
+.pic3{
+    margin-bottom: -34px;
+    margin-left: -170px;
+
+}
+
+.address{
+width:247px;
+height: 23px;
+left: 122px;
+top: 1377px;
+
+font-family: K2D;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 23px;
+
+}
+
+.address1{
+    width:297px;
+    height: 37px;
+    left: 122px;
+    top: 1379px;
+    
+    font-family: K2D;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    
+    }
+    .address2{
+        width:257px;
+        height: 37px;
+        left: 122px;
+        top: 1379px;
+        
+        font-family: K2D;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 23px;
+        
+        }
+        .head2{
+width: 163px;
+height: 29px;
+left: 789px;
+top: 1191px;
+color: #6F6B6B ;
+font-family: K2D;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 23px;
+/* identical to box height */
+
+text-align: center;
+        }
+
+        .inputt{
+            width: 199px;
+height: 30px;
+left: 891px;
+top: 1251px;
+background: #e7e4e4;
+border-radius: 2px;
+border-color: #ece8e8;
+        }
+
+.divv{
+
+}
+
+.inputt1{
+width: 199px;
+height: 95px;
+left: 891px;
+top: 1251px;
+background: #e7e4e4;
+border-radius: 2px;
+border-color: #ece8e8;
+}
+
+.btnn{
+width:  199px;
+height:  30px;
+left: 789px;
+top: 1619px;
+
+/* c2 */
+
+background: #F7941E;
+color: honeydew;
+border-radius: 3px;
+font-family: K2D;
+font-style: normal;
+font-weight: 20;
+font-size: 14px;
+line-height: 18px;
+border-color: #F7941E;
+}
+@media screen and (max-width:576px) {
+    iframe{
+        height:100%;
+        width:100%;
+    }
+    .conn2{
+    
+        height: 60%;
+        width:100%;
+        margin-left: -5px; 
+    
+    }
+   
+}
+
+@media screen and (max-width:768px) {
+    iframe{
+        height:100%;
+        width:100%;
+    }
+    .conn2{
+    
+        height: 60%;
+        width:100%;
+        margin-left: -5px; 
+    
+    }
+    .pic1{
+        margin-left: -105px;
+    }
+    .pic2{
+        margin-left: -105px;
+    }
+    .pic3{
+        margin-left: -105px;
+    }
+   .para{
+       margin-left: 20px;
+   }
+}
+
+@media screen and (max-width:992px) {
+    iframe{
+        height:100%;
+        width:100%;
+    }
+    .conn2{
+    
+        height: 60%;
+        width:100%;
+         margin-left: -5px; 
+    
+    }
+    .pic1{
+        margin-right: 125px;
+    }
+    .pic2{
+        margin-right: 125px;
+    }
+    .pic3{
+        margin-right: 125px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    iframe{
+        height:500px;
+        width:100%;
+    }
+    .conn2{
+    
+        height: 60%;
+        width:100%;
+        margin-left: -5px; 
+    
+    }
+    .pic1{
+        margin-right: 135px;
+    }
+    .pic2{
+        margin-right: 135px;
+    }
+    .pic3{
+        margin-right: 135px;
+    }
+}
+
+@media screen and (max-width:280px) {
+    iframe{
+        height:500px;
+        width:100%;
+    }
+    .conn2{
+    
+        height: 60%;
+        width:100%;
+        margin-left: -5px; 
+    
+    }
+    .pic1{
+        margin-right: 135px;
+    }
+    .pic2{
+        margin-right: 135px;
+    }
+    .pic3{
+        margin-right: 135px;
+    } 
+}
+

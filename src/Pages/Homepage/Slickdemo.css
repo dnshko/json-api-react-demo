@@ -1,0 +1,59 @@
+.wdt{    
+    width: 90% !important;    
+}    
+.img    
+{    
+    height: 300px !important;    
+    width: 1200px;    
+}    
+    
+.imgdetails    
+{    
+    height: 230px !important;    
+    width: 400px !important;    
+    
+}    
+    
+.imgpad    
+{    
+  padding-bottom: 80px !important;    
+  padding-top: 80px !important;    
+  padding-left: 20px !important;    
+  padding-right: 20px !important;    
+
+  /* width:340px;
+  height:190px; */
+
+    
+}    
+  .cls    
+  {    
+    padding-right: 300px !important;    
+    background-color: blue    
+  } 
+  .cardimg1{
+    width: 88px;
+    height:80px;
+    margin-left: 116px; 
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+   
+  }   
+
+  .imgcard{
+
+    width:'120px';
+    height:'120px';
+    display: 'initial';
+  }
+  
+
+  .card1{
+    width: 350px;
+   
+  }
+  
+  
+
+  

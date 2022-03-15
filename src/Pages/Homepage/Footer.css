@@ -1,0 +1,190 @@
+.main-footer{
+    height: 700px;
+    width: 100%;
+    color: #730E28;
+    background-color: #730E28;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    border:2px;
+    border-style: solid;
+    border-radius: 200px 200px 0px 0px;
+    margin-right: 0px;
+    overflow: hidden;
+}
+h1{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c1{
+    
+    list-style-type: none;
+    margin-top: 10px;
+   /*  text-decoration:"none";
+    color:"white" */
+}
+.a1{
+    text-decoration: none;
+    color: white;
+}
+
+/* Button{
+    background-color: #FFBE71;
+} */
+h1{
+font-family: Pristina;
+font-style: normal;
+font-weight: normal;
+font-size: 192px;
+line-height: 86px;
+
+color: #FFFFFF;
+}
+
+/* da{
+    color:#F7941E ;
+    padding-left: 500px;
+    font-size: 25px;
+    margin-top: -80px;
+    font-family: "KD2";
+    line-height: 20px;
+} */
+
+ .du{
+    color:#F7941E ;
+    padding-left: 900px;
+    font-size: 20px;
+    margin-top: -85px;
+    font-family: "KD2";
+    line-height: 20px; 
+}
+
+.quick{
+    margin-top: -60px;
+    font-size: 20px;
+    font-family: "KD2";
+    color:#F7941E ; 
+}
+
+.btn1{
+    /* className="btn1" style={{backgroundColor:"#FFBE71" ,width: "230px",height: "40px",borderColor:"#FFBE71",borderRadius:"0px 4px 4px",fontStyle:"normal",fontFamily: "Pristina",fontSize:"35px",color:"#701C1C",fontWeight:"normal",lineHeight:" 37px"}} */
+ background-color:#FFBE71 ;
+ width: 230px;
+ height:40px;
+ border-color:#FFBE71 ;
+ border-radius: 0px 4px 4px ;
+ font-style: normal;
+ font-family: Pristina;
+ font-size: 35px;
+ color: #701C1C;
+ font-weight: normal;
+ line-height: 37px;
+
+}
+
+.btn21{
+   /*  style={{backgroundColor:"#FFBE71" ,width: "155px",height: "40px",borderColor:"#FFBE71",borderRadius:"0px 4px 4px",fontStyle:"normal",fontFamily: "Pristina",fontSize:"35px",color:"#701C1C",fontWeight:"normal",lineHeight:" 37px"}} */
+   background-color:#FFBE71 ;
+   width: 230px ;
+   height: 40px;
+   border-color: #FFBE71;
+   border-radius: 0px 4px 4px;
+   font-style: normal;
+   font-family: Pristina;
+   font-size: 35px;
+   color: #701C1C;
+   font-weight: normal;
+   line-height: 37px;
+
+}
+
+.cent{
+    
+    padding-left: 210px; 
+    padding-right: 210px;
+}
+
+.mat{
+    padding-top: 150px;
+    padding-right: 620px;
+}
+.matrimonyheading{
+  
+    font-size: 68px;
+    padding-right: 390px;
+}
+.quicklinks{
+ 
+   margin-left: -1045px;
+  
+}
+
+.contactus{
+  
+   margin-top: -60px;
+   font-size: 20px;
+   font-family: "KD2";
+   color:#F7941E;
+}
+
+.con1{
+   /*  style={{listStyle:"none",fontSize:"18px"}} */
+     list-style-type: none;
+     font-size: 18px;
+
+}
+
+.contact{
+  
+    text-decoration: none;
+    color: white;
+   /*  line-height: 15px; */
+}
+.contact1{
+    /* style={{textDecoration:"none",color:"white",lineHeight:"45px"}} */
+    text-decoration: none;
+    color: white;
+    line-height: 45px;
+}
+
+.socialmedia{
+    /* style={{marginTop:"60px",marginLeft:"-10px"}} className="social-container" */
+    margin-top: 60px;
+    margin-left: -2px;
+}
+.media{
+    /* style={{ borderColor:"#FFBE71",borderRadius:"5px"}} */
+    border-color:#FFBE71 ;
+    border-radius:5px ;
+}
+.fontt{
+   /*  style={{color:"#FFBE71"}} */
+    color:#FFBE71;
+}
+hr{
+    /* */
+    color:#FFBE71;
+    margin-top: 60px;
+    size:5px;
+}
+
+.copyright{
+    /* style={{textAlign:"center",color:"white",fontSize:"15px",lineHeight:"25px"}} */
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.footerr{
+    /* style={{marginBottom:"-481px",width:"100%"}} */
+    margin-bottom: -481px;
+    width:100%;
+}
+
+@media (max-width :558px){
+    
+}
